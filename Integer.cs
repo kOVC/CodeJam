@@ -1,4 +1,27 @@
-﻿using System;
+﻿/*
+    Integer.cs includes definition of the Integer class, a try to create a general
+	use integer class with theoritically no limit on percision. The only limit is
+	the memory of the system you are running the code on.
+	
+    Copyright (C) 2012  Mohamed Abu Marsa a.k.a. (VC, kOVC) (vc@korganization.org)
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+	The GNU General Public License copy can be found in the COPYRIGHT file 
+	at the root of the project directory structure.
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Text;
 
